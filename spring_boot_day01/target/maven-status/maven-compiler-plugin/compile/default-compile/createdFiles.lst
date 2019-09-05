@@ -1,0 +1,4 @@
+com\itheima\controller\HelloController.class
+com\itheima\SpringBootDay01Application.class
+com\itheima\domain\Person.class
+com\itheima\domain\Dog.class

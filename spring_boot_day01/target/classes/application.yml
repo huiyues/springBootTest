@@ -1,0 +1,13 @@
+
+#person:
+#  lastName: heiye
+#  age: 20
+# maps: {k1: v1,k2: v2,k3: v3}
+# list:
+#  - huiyue
+#   - heiye
+# dog:
+#   name: tom
+#  age: 10
+# email: heiye@qq.com
+
